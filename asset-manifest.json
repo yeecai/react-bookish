@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bookish/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-bookish/static/js/main.83fc0b80.chunk.js",
+    "main.js.map": "/react-bookish/static/js/main.83fc0b80.chunk.js.map",
+    "runtime-main.js": "/react-bookish/static/js/runtime-main.094faf9a.js",
+    "runtime-main.js.map": "/react-bookish/static/js/runtime-main.094faf9a.js.map",
+    "static/js/2.c3f49628.chunk.js": "/react-bookish/static/js/2.c3f49628.chunk.js",
+    "static/js/2.c3f49628.chunk.js.map": "/react-bookish/static/js/2.c3f49628.chunk.js.map",
+    "index.html": "/react-bookish/index.html",
+    "precache-manifest.ddbdfe7f4579e753aab2952debc55dc5.js": "/react-bookish/precache-manifest.ddbdfe7f4579e753aab2952debc55dc5.js",
+    "service-worker.js": "/react-bookish/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-bookish/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c3f49628.chunk.js.LICENSE.txt": "/react-bookish/static/js/2.c3f49628.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094faf9a.js",
+    "static/js/2.c3f49628.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.83fc0b80.chunk.js"
+  ]
+}
