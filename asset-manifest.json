@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yeecai/react-bookish.git/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/yeecai/react-bookish.git/static/js/main.e53de6a6.chunk.js",
-    "main.js.map": "/yeecai/react-bookish.git/static/js/main.e53de6a6.chunk.js.map",
-    "runtime-main.js": "/yeecai/react-bookish.git/static/js/runtime-main.10eeefa5.js",
-    "runtime-main.js.map": "/yeecai/react-bookish.git/static/js/runtime-main.10eeefa5.js.map",
-    "static/js/2.dd381d07.chunk.js": "/yeecai/react-bookish.git/static/js/2.dd381d07.chunk.js",
-    "static/js/2.dd381d07.chunk.js.map": "/yeecai/react-bookish.git/static/js/2.dd381d07.chunk.js.map",
-    "index.html": "/yeecai/react-bookish.git/index.html",
-    "precache-manifest.ca80fed1c59001535ce74079311f4391.js": "/yeecai/react-bookish.git/precache-manifest.ca80fed1c59001535ce74079311f4391.js",
-    "service-worker.js": "/yeecai/react-bookish.git/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/yeecai/react-bookish.git/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.dd381d07.chunk.js.LICENSE.txt": "/yeecai/react-bookish.git/static/js/2.dd381d07.chunk.js.LICENSE.txt"
+    "main.css": "/yeecai/react-bookish/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/yeecai/react-bookish/static/js/main.340d2583.chunk.js",
+    "main.js.map": "/yeecai/react-bookish/static/js/main.340d2583.chunk.js.map",
+    "runtime-main.js": "/yeecai/react-bookish/static/js/runtime-main.dfb480f9.js",
+    "runtime-main.js.map": "/yeecai/react-bookish/static/js/runtime-main.dfb480f9.js.map",
+    "static/js/2.dd381d07.chunk.js": "/yeecai/react-bookish/static/js/2.dd381d07.chunk.js",
+    "static/js/2.dd381d07.chunk.js.map": "/yeecai/react-bookish/static/js/2.dd381d07.chunk.js.map",
+    "index.html": "/yeecai/react-bookish/index.html",
+    "precache-manifest.81fd9552806754a35fb35711b8f3e689.js": "/yeecai/react-bookish/precache-manifest.81fd9552806754a35fb35711b8f3e689.js",
+    "service-worker.js": "/yeecai/react-bookish/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/yeecai/react-bookish/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.dd381d07.chunk.js.LICENSE.txt": "/yeecai/react-bookish/static/js/2.dd381d07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10eeefa5.js",
+    "static/js/runtime-main.dfb480f9.js",
     "static/js/2.dd381d07.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.e53de6a6.chunk.js"
+    "static/js/main.340d2583.chunk.js"
   ]
 }
