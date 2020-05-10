@@ -43,7 +43,7 @@ export const checkout = products => (dispatch, getState) => {
     dispatch({
         type: types.CHECKOUT_REQUEST
     })
-    shop.byProducts(products, () => {
+    shop.buyProducts(products, () => {
         dispatch({
             type: types.CHECKOUT_SUCCEED,
             cart

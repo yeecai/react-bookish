@@ -3,14 +3,14 @@ import React from "react";
 // import  B  from "./ComponentB";
 import "./App.css";
 import CartContainer from "./containers/CartContainer";
-// import BookContainer from "./containers/BooksContainer";
+import BookContainer from "./containers/BooksContainer";
 
 function App() {
   return (
     <div>
       {/* <A /> */}
       {/* <B /> */}
-      {/* <BookContainer /> */}
+      <BookContainer />
       <CartContainer />
     </div>
   );
