@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-bookish/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/react-bookish/static/js/main.0b2c1928.chunk.js",
-    "main.js.map": "/react-bookish/static/js/main.0b2c1928.chunk.js.map",
+    "main.js": "/react-bookish/static/js/main.bf89ac5c.chunk.js",
+    "main.js.map": "/react-bookish/static/js/main.bf89ac5c.chunk.js.map",
     "runtime-main.js": "/react-bookish/static/js/runtime-main.094faf9a.js",
     "runtime-main.js.map": "/react-bookish/static/js/runtime-main.094faf9a.js.map",
-    "static/js/2.a3ccf576.chunk.js": "/react-bookish/static/js/2.a3ccf576.chunk.js",
-    "static/js/2.a3ccf576.chunk.js.map": "/react-bookish/static/js/2.a3ccf576.chunk.js.map",
+    "static/js/2.432bfd2c.chunk.js": "/react-bookish/static/js/2.432bfd2c.chunk.js",
+    "static/js/2.432bfd2c.chunk.js.map": "/react-bookish/static/js/2.432bfd2c.chunk.js.map",
     "index.html": "/react-bookish/index.html",
-    "precache-manifest.bd85cab38a4a3e7bae3c1f16b5a0f116.js": "/react-bookish/precache-manifest.bd85cab38a4a3e7bae3c1f16b5a0f116.js",
+    "precache-manifest.bd02fc42ad40a2adfca4068e48212ca8.js": "/react-bookish/precache-manifest.bd02fc42ad40a2adfca4068e48212ca8.js",
     "service-worker.js": "/react-bookish/service-worker.js",
     "static/css/main.8ab6f918.chunk.css.map": "/react-bookish/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.a3ccf576.chunk.js.LICENSE.txt": "/react-bookish/static/js/2.a3ccf576.chunk.js.LICENSE.txt"
+    "static/js/2.432bfd2c.chunk.js.LICENSE.txt": "/react-bookish/static/js/2.432bfd2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.094faf9a.js",
-    "static/js/2.a3ccf576.chunk.js",
+    "static/js/2.432bfd2c.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.0b2c1928.chunk.js"
+    "static/js/main.bf89ac5c.chunk.js"
   ]
 }
